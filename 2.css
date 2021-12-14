@@ -1,0 +1,17 @@
+ul {
+	list-style-type: none;
+}
+li {
+    margin-bottom: 32px; /* Расстояние снизу */
+	
+}
+h1{
+	padding-left: 60px;
+}
+body{
+	font-family: Arial;
+}
+
+ul>li{
+	font-size: 19px;
+}
